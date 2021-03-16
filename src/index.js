@@ -1,11 +1,6 @@
 function booleanToString(b){
-    //your code here
     if (typeof b === 'boolean') {
-        if (b === true) {
-            return 'true';
-        } else {
-            return 'false';
-        }
+        return b === true ? 'true' : 'false';
     }else{
         return '';
     }
