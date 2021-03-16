@@ -6,6 +6,8 @@ function booleanToString(b){
         } else {
             return 'false';
         }
+    }else{
+        return '';
     }
 }
 
