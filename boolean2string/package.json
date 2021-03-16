@@ -154,7 +154,7 @@
     "mocha": "^8.3.2"
   },
   "scripts": {
-    "test": "nodemon --exec mocha -R min boolean2string/test/index.js"
+    "test": "nodemon --exec mocha -R min test/index.js"
   },
   "repository": {
     "type": "git",
