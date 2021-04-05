@@ -38,5 +38,5 @@ npm test
 To exit from the running test and return to the prompt, press `Ctrl+C` 
 
 Thank you for reading. Cheers!
-
-![my codewars badge](https://www.codewars.com/users/Jojo7necio/badges/small)
+* * *
+#### Codewars Status: ![my codewars badge](https://www.codewars.com/users/Jojo7necio/badges/small)
